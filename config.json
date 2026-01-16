@@ -1,0 +1,25 @@
+{
+    "aimbot": {
+        "enabled": true,
+        "keyBind": "U",
+        "sensitivity": 1.0
+    },
+    "esp": {
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "enabled": true,
+        "keyBind": "Y"
+    },
+    "tracers": {
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "enabled": true,
+        "keyBind": "Y"
+    }
+}
